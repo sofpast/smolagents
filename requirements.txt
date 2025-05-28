@@ -1,0 +1,3 @@
+smolagents
+duckduckgo-search
+huggingface-hub
